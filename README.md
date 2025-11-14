@@ -332,3 +332,175 @@ Permite recibir eventos de otros equipos mediante suscripciones.
 6. Explica el uso del programador de tareas.
 
 ---
+
+# 📝 **EXAMEN TIPO TEST — TEMA 2 (Active Directory)**
+
+### **1. ¿Qué es un bosque en Active Directory?**
+
+**A.** `Un grupo de unidades organizativas`
+**B.** `Una agrupación lógica de sitios`
+**C.** `La estructura más alta que contiene uno o varios dominios`
+**D.** `Un dominio principal con un nombre DNS`
+
+---
+
+### **2. ¿Qué es un dominio?**
+
+**A.** `Un conjunto de sitios que comparten subred`
+**B.** `Un conjunto de objetos que comparten base de datos y políticas`
+**C.** `Un contenedor donde se almacenan perfiles móviles`
+**D.** `Un nodo físico dentro de la red`
+
+---
+
+### **3. ¿Qué herramienta se utiliza para administrar usuarios y grupos?**
+
+**A.** `Monitor de rendimiento`
+**B.** `Sitios y servicios de Active Directory`
+**C.** `Usuarios y equipos de Active Directory`
+**D.** `Visor de eventos`
+
+---
+
+### **4. La promoción de un servidor a controlador de dominio implica…**
+
+**A.** `Instalar el rol DHCP`
+**B.** `Instalar AD DS y configurar un dominio`
+**C.** `Cambiar de red física`
+**D.** `Crear un sitio nuevo`
+
+---
+
+### **5. ¿Qué tipo de relación permite comunicación bidireccional entre dos bosques?**
+
+**A.** `Trust unidireccional`
+**B.** `Trust de ámbito local`
+**C.** `Forest trust`
+**D.** `Trust transitorio`
+
+---
+
+### **6. Una Unidad Organizativa sirve para…**
+
+**A.** `Crear políticas de red física`
+**B.** `Organizar objetos y delegar administración`
+**C.** `Administrar registros DNS`
+**D.** `Crear bosques automáticamente`
+
+---
+
+---
+
+# 📝 **EXAMEN TIPO TEST — TEMA 3 (Usuarios, Equipos y Grupos)**
+
+### **1. Un grupo de distribución se usa para…**
+
+**A.** `Conceder permisos`
+**B.** `Crear GPOs`
+**C.** `Listas de correo`
+**D.** `Controlar perfiles móviles`
+
+---
+
+### **2. ¿Qué ámbito de grupo permite incluir usuarios de cualquier dominio dentro del bosque?**
+
+**A.** `Grupo local`
+**B.** `Grupo global`
+**C.** `Grupo universal`
+**D.** `Grupo de distribución`
+
+---
+
+### **3. ¿Qué es un perfil móvil?**
+
+**A.** `Un perfil temporal que se borra al cerrar sesión`
+**B.** `Un perfil almacenado en el servidor que sigue al usuario`
+**C.** `Un perfil que no se puede modificar`
+**D.** `Un perfil que solo existe localmente`
+
+---
+
+### **4. ¿Qué cuenta es integrada en Windows Server?**
+
+**A.** `Invitado`
+**B.** `Técnico`
+**C.** `Estándar`
+**D.** `Usuario local del dominio`
+
+---
+
+### **5. Una cuenta de equipo sirve para…**
+
+**A.** `Ejecutar programas sin permisos`
+**B.** `Permitir que un PC se autentique en el dominio`
+**C.** `Crear políticas del sistema`
+**D.** `Conectar el equipo a Internet`
+
+---
+
+### **6. ¿Cómo se crea una OU?**
+
+**A.** `Desde el Visor de Eventos`
+**B.** `Desde Usuarios y equipos de Active Directory`
+**C.** `Desde Servicios`
+**D.** `Desde Panel de control`
+
+---
+
+---
+
+# 📝 **EXAMEN TIPO TEST — TEMA 4 (Copias de Seguridad y Monitorización)**
+
+### **1. ¿Qué tipo de copia marca todos los archivos como respaldados?**
+
+**A.** `Incremental`
+**B.** `Completa`
+**C.** `Diferencial`
+**D.** `Selectiva`
+
+---
+
+### **2. ¿Para qué sirve el programador de tareas?**
+
+**A.** `Para restaurar el sistema`
+**B.** `Para ejecutar acciones en momentos programados`
+**C.** `Para administrar memoria RAM`
+**D.** `Para gestionar DNS`
+
+---
+
+### **3. El Visor de eventos permite ver…**
+
+**A.** `Sólo errores críticos`
+**B.** `Eventos del sistema, seguridad y aplicaciones`
+**C.** `El historial de copia de seguridad`
+**D.** `Gráficas de rendimiento`
+
+---
+
+### **4. ¿Qué se usa para medir rendimiento mediante contadores?**
+
+**A.** `Monitor de recursos`
+**B.** `Monitor de rendimiento`
+**C.** `Programador de tareas`
+**D.** `Administrador de discos`
+
+---
+
+### **5. ¿Qué tipo de copia guarda solo los archivos cambiados desde la última copia completa?**
+
+**A.** `Diferencial`
+**B.** `Incremental`
+**C.** `Individual`
+**D.** `Clonada`
+
+---
+
+### **6. Para agregar un disco nuevo se debe…**
+
+**A.** `Formatearlo sin inicializar`
+**B.** `Inicializarlo en Administración de discos`
+**C.** `Crear un dominio nuevo`
+**D.** `Ejecutar tareas avanzadas`
+
+---
